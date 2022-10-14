@@ -1,58 +1,57 @@
-[
-      {
-         id: 1,
-         scr: "https://sm.ign.com/ign_br/screenshot/default/fpy0j9yaaaenrud_mhjd.jpg",
-         titulo: 'One Piece: Red',
-         ano: '2022',
-         gen: 'Animação',
-      },
-      {
-         id: 2,
-         scr: "https://media.fstatic.com/HJU-UAfpE8kItdcDLPXTnN0-VzQ=/290x478/smart/media/movies/covers/2017/07/5ow9w.jpg",
-         titulo: 'A origem',
-         ano: '2010',
-         gen: 'Ficção Científica',
-      },
-      {
-         id: 3,
-         scr: https://i.pinimg.com/originals/e4/bb/76/e4bb7637935f94a99746ada39277a54a.jpg,
-         titulo: 'Interestelar',
-         ano: '2014',
-         gen: 'Ficção científica',
-      },
-      {
-         id: 4,
-         scr: https://br.web.img3.acsta.net/pictures/19/04/26/17/30/2428965.jpg,
-         titulo: 'Vingadores: Ultimato',
-         ano: '2019',
-         gen: 'Super-herói',
-      },
-      {
-         id: 5,
-         scr: https://m.media-amazon.com/images/I/91UQCBxB+cL._AC_SL1500_.jpg,
-         titulo: 'Invocação do mal',
-         ano: '2013',
-         gen: 'Terror',
-      },
-      {
-         id: 6,
-         scr: https://www.ocamundongo.com.br/wp-content/uploads/2015/10/divertida-mente-poster-todos-camundongo.jpg,
-         titulo: 'Divertida mente',
-         ano: '2015',
-         gen: 'Animação',
-      },
-      {
-         id: 7,
-         scr: https://m.media-amazon.com/images/I/51rRZBoyExL.jpg,
-         titulo: 'Van Helsing',
-         ano: '2004',
-         gen: 'Fantasia',
-      },
-      {
-         id: 8,
-         scr: https://upload.wikimedia.org/wikipedia/pt/d/da/Underworld_poster.jpg,
-         titulo: 'Anjos da Noite',
-         ano: '2004',
-         gen: 'Ação',
-      },
-   ];
+[{
+		"id": 1,
+		"scrUri": "https://sm.ign.com/ign_br/screenshot/default/fpy0j9yaaaenrud_mhjd.jpg",
+		"titulo": "One Piece: Red",
+		"ano": 2022,
+		"gen": "Animação"
+	},
+	{
+		"id": 2,
+		"scrUri": "https://media.fstatic.com/HJU-UAfpE8kItdcDLPXTnN0-VzQ=/290x478/smart/media/movies/covers/2017/07/5ow9w.jpg",
+		"titulo": "A origem",
+		"ano": 2010,
+		"gen": "Ficção Científica"
+	},
+	{
+		"id": 3,
+		"scrUri": "https://i.pinimg.com/originals/e4/bb/76/e4bb7637935f94a99746ada39277a54a.jpg",
+		"titulo": "Interestelar",
+		"ano": 2014,
+		"gen": "Ficção científica"
+	},
+	{
+		"id": 4,
+		"scrUri": "https://br.web.img3.acsta.net/pictures/19/04/26/17/30/2428965.jpg",
+		"titulo": "Vingadores: Ultimato",
+		"ano": 2019,
+		"gen": "Super-herói"
+	},
+	{
+		"id": 5,
+		"scrUri": "https://m.media-amazon.com/images/I/91UQCBxB+cL._AC_SL1500_.jpg",
+		"titulo": "Invocação do mal",
+		"ano": 2013,
+		"gen": "Terror"
+	},
+	{
+		"id": 6,
+		"scrUri": "https://www.ocamundongo.com.br/wp-content/uploads/2015/10/divertida-mente-poster-todos-camundongo.jpg",
+		"titulo": "Divertida mente",
+		"ano": 2015,
+		"gen": "Animação"
+	},
+	{
+		"id": 7,
+		"scrUri": "https: //m.media-amazon.com/images/I/51rRZBoyExL.jpg",
+		"titulo": "Van Helsing",
+		"ano": 2004,
+		"gen": "Fantasia"
+	},
+	{
+		"id": 8,
+		"scrUri": "https: //upload.wikimedia.org/wikipedia/pt/d/da/Underworld_poster.jpg",
+		"titulo": "Anjos da Noite",
+		"ano": 2004,
+		"gen": "Ação"
+	}
+]
