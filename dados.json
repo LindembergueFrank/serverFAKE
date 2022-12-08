@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "nome": "Concluir atividades",
+      "status": true
+    },
+    {
+      "id": 2,
+      "nome": "Entregar projeto dia 09",
+      "status": false
+    },
+    {
+      "id": 3,
+      "nome": "Finalizar rotas",
+      "status": true
+    },
+    {
+      "id": 4,
+      "nome": "Concluir estilizações",
+      "status": true
+    },
+    {
+      "id": 5,
+      "nome": "Ligar com o Firestore",
+      "status": false
+    },
+    {
+      "id": 6,
+      "nome": "Adicionar anúncios",
+      "status": true
+    },
+  ]
